@@ -1,3 +1,4 @@
+abf<asnfdjhk
 @import url('https://fonts.googleapis.com/css?family=Megrim|Short+Stack');
 @import url('https://fonts.googleapis.com/css?family=Nanum+Pen+Script');
 
@@ -21,16 +22,16 @@ body{
     margin: 0;
     padding: 0;
 }
- 
 
- 
+
+
 .wrap {
     width: 90%;
     max-width: 1000px;
     margin: 0 20px;
     /*margin: auto;*/
 }
- 
+
 .formulario h2 {
     font-size: 30px;
     color: white;
@@ -39,7 +40,7 @@ body{
     font-family: 'Nanum Pen Script', cursive;
 
 }
- 
+
 .formulario > div {
     padding: 20px 0;
     border-bottom: 1px solid #ccc;
@@ -66,7 +67,7 @@ h2{color:white;}
 
 .tuya{background-color: white;
 margin-bottom: 20px;
-margin-right: 20px; 
+margin-right: 20px;
 color: black;
 padding:10PX;
 border-radius: 10%;}
@@ -91,7 +92,7 @@ border-radius: 10%;
 	background-image: url("../imagenes/encabezado.png");
 	background-attachment:fixed;
 	border-radius: 0%;
-border-color: white; 
+border-color: white;
 border-radius: 1%;
 }
 
@@ -109,21 +110,21 @@ border-radius: 1%;
 	text-align:center;
 	padding:15px;
 	font-size:30px;}
-	
+
 .clearfix::after{content:"";
 	clear:both;
-	display:TABLE;}	
-	
+	display:TABLE;}
+
 .contenido{width:75%;}
 
 .columnas{float:left;
 		padding:15px;
 		background-color:#6E777E;
 		color:#efefef;}
-		
-			
-	
-      
+
+
+
+
 .logo{
 	margin-left:200px;
 	width:140px;
@@ -133,10 +134,10 @@ border-radius: 1%;
 	margin-bottom: 70px;
 	width: 100%;
 	margin-left:50px;
-	font-family: "Megrim","cursiva"; 
-	color:white; 
+	font-family: "Megrim","cursiva";
+	color:white;
 	font-size:85px;
-}    
+}
 .usuario{
 	margin-top: 150px;
 	margin-left: 30px;
