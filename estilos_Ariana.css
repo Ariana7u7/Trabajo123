@@ -2,9 +2,10 @@
 
 body{
 	background-image: url("../imagenes/fondo.jpg");
-	background-attachment: fixed;
+	background-attachment: scroll;
+	margin: 0px;
 }
-      
+
 .logo{
 	margin-left:200px;
 	width:140px;
@@ -14,10 +15,10 @@ body{
 	margin-bottom: 70px;
 	width: 100%;
 	margin-left:50px;
-	font-family: "Megrim","cursiva"; 
-	color:white; 
+	font-family: "Megrim","cursiva";
+	color:white;
 	font-size:85px;
-}    
+}
 .usuario{
 	margin-top: 150px;
 	margin-left: 30px;
@@ -210,6 +211,3 @@ body{
 
 
 }
-
-
-
